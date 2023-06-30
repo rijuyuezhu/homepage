@@ -1,4 +1,4 @@
-.PHONY: all clean s
+.PHONY: all clean s b d
 
 all: b d
 
