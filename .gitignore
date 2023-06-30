@@ -2,7 +2,7 @@
 */*
 
 !/docs/
-!/docs/*
+!/docs/**/*
 !/README.md
 !/.gitignore
 !/mkdocs.yml

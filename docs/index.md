@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+---
+hide:
+  - navigation
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# About me
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+<img src="img/hwr-avatar.jpg" width="200px" style="float: left; margin: 0 50px 0 0">
 
-## Project layout
+<h2>Wenrui Huang</h2>
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+I am Wenrui Huang(黄文睿), an undergraduate at Nanjing University(NJU).
+
+I'm majoring in Computer Science, in the Elite Class at NJU.
+
+E-mail: [huangwenruiwork@126.com](mailto:huangwenruiwork@126.com).
+
+<div style="clear: both"></div>
+
+## Introduction

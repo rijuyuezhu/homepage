@@ -1,12 +1,16 @@
 # site
-site_name: Wenrui Huang's Main Page
+site_name: Wenrui Huang's Homepage
 site_description: The main personal page for Wenrui Huang（黄文睿).
 site_author: Wenrui Huang(黄文睿)
 site_url: https://rijuyuezhu.top
 
-# repo
-repo_name: 'rijuyuezhu/main-page'
-repo_url: 'https://github.com/rijuyuezhu/main-page'
+
+nav:
+  - 'index.md'
+  - Projects:
+    - 'projects/20222-webmake-lc.md'
+  - Blogs: 'https://blog.rijuyuezhu.top'
+
 
 theme:
   name: material
@@ -28,16 +32,20 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
   features:
-    - navigation.tabs
+    - toc.integrate
     - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
 
-nav:
-  - Home: 'index.md'
-  - Projects: 'https://project.rijuyuezhu.top'
-  - Blogs: 'https://blog.rijuyuezhu.top'
-
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - toc:
-      permalink: "#"
+      permalink: True
+
+plugins: []
