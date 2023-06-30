@@ -10,7 +10,7 @@ nav:
   - Projects:
     - 'projects/index.md'
     - 'projects/20222-webmake-lc.md'
-  - Blogs: 'https://blog.rijuyuezhu.top'
+  - Blog: 'https://blog.rijuyuezhu.top'
 
 
 theme:
@@ -36,17 +36,13 @@ theme:
   icon:
     repo: fontawesome/brands/github
   features:
-    - toc.integrate
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
   font:
-    code: consolas, Menlo, monospace, 'PingFang SC', 'Microsoft YaHei'
-    text: Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif
-
-extra_css:
-  - stylesheets/extra.css
+    text: Georgia
+    code: Consolas
 
 markdown_extensions:
   - toc:
