@@ -8,6 +8,7 @@ site_url: https://rijuyuezhu.top
 nav:
   - 'index.md'
   - Projects:
+    - 'projects/index.md'
     - 'projects/20222-webmake-lc.md'
   - Blogs: 'https://blog.rijuyuezhu.top'
 
