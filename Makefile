@@ -1,6 +1,6 @@
 .PHONY: all clean s b d
 
-all: b d
+all: d
 
 clean: 
 	-rm -rf site/
