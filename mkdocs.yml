@@ -41,6 +41,9 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
+  font:
+    code: consolas, Menlo, monospace, 'PingFang SC', 'Microsoft YaHei'
+    text: Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif
 
 extra_css:
   - stylesheets/extra.css
