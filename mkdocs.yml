@@ -1,5 +1,12 @@
+# site
 site_name: Wenrui Huang's Main Page
 site_description: The main personal page for Wenrui Huang（黄文睿).
+site_author: Wenrui Huang(黄文睿)
+site_url: https://rijuyuezhu.top
+
+# repo
+repo_name: 'rijuyuezhu/main-page'
+repo_url: 'https://github.com/rijuyuezhu/main-page'
 
 theme:
   name: material
