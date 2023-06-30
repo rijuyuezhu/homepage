@@ -19,7 +19,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue
+      primary: indigo
       accent: red
       toggle:
         icon: material/weather-sunny
