@@ -12,16 +12,15 @@ hide:
 
 ## Wenrui Huang
 
-I am Wenrui Huang(黄文睿), an undergraduate at Nanjing University(NJU).
+I am Wenrui Huang(黄文睿), an undergraduate in Nanjing University(NJU).
 
-I'm majoring in Computer Science, in the Elite Class at NJU.
+I'm majoring in Computer Science, in the Elite Class in NJU.
 
-E-mail: [huangwenruiwork@126.com](mailto:huangwenruiwork@126.com).
-
-<div style="clear: both"></div>
+I'm still keeping learning basic knowledge in CS. I'm interested in algorithm and computer system now.
 
 ## Social Links
 
+- [Email: huangwenruiwork@126.com](mailto:huangwenruiwork@126.com).
 - [My GitHub](https://github.com/rijuyuezhu).
 
 ## Personal Blog
