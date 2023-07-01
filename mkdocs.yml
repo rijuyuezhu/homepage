@@ -1,10 +1,13 @@
-# site
+# project info
 site_name: Wenrui Huang's Homepage
 site_description: The main personal page for Wenrui Huang（黄文睿).
 site_author: Wenrui Huang(黄文睿)
 site_url: https://rijuyuezhu.top
 
+# copyright
+copyright: Copyright &copy; 2023 Wenrui Huang
 
+# page tree
 nav:
   - 'index.md'
   - Projects:
@@ -13,6 +16,7 @@ nav:
   - Blog: 'https://blog.rijuyuezhu.top'
 
 
+# theme configuration
 theme:
   name: material
   palette:
@@ -44,8 +48,10 @@ theme:
     text: Georgia
     code: Consolas
 
+# extensions
 markdown_extensions:
   - toc:
       permalink: True
 
-plugins: []
+# plugins
+plugins: [] # no search
