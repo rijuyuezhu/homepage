@@ -20,7 +20,7 @@ I'm still keeping learning basic knowledge in CS. I'm interested in algorithm an
 
 ## Social Links
 
-- [Email: huangwenruiwork@126.com](mailto:huangwenruiwork@126.com).
+- [Email: wr-huang@outlook.com](mailto:wr-huang@outlook.com).
 - [My GitHub](https://github.com/rijuyuezhu).
 
 ## Personal Blog
