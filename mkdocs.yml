@@ -13,6 +13,7 @@ nav:
   - Projects:
     - 'projects/index.md'
     - 'projects/20222-webmake-lc.md'
+    - 'projects/riscvui-test.md'
   - Blog: 'https://blog.rijuyuezhu.top'
 
 

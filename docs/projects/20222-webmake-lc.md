@@ -14,4 +14,4 @@ The site of the course is [https://wbhu.nju.edu.cn/](https://wbhu.nju.edu.cn/).
 - Author: Wenrui Huang(黄文睿), Ruichen Li(李瑞晨), Weidong Wang(王卫东), Jiaqi Huang(黄嘉祺), Haoyang Li(李昊洋).
 - Site: [https://project.rijuyuezhu.top/20222-webmake-lc/](https://project.rijuyuezhu.top/20222-webmake-lc/).
 - GitHub Repository: [https://github.com/rijuyuezhu/20222-webmake-lc](https://github.com/rijuyuezhu/20222-webmake-lc).
-- Blog to summarize: [https://blog.rijuyuezhu.top/posts/d06840d0/](https://blog.rijuyuezhu.top/posts/d06840d0/)
+- Blog to summarize: [https://blog.rijuyuezhu.top/posts/d06840d0/](https://blog.rijuyuezhu.top/posts/d06840d0).
