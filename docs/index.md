@@ -6,10 +6,6 @@ hide:
 
 # About me
 
-<div align="center">
-<img src="img/avatar.jpg" width="250px" height="250px" alt="avatar" style="border-radius: 50%">
-</div>
-
 ## Wenrui Huang
 
 I am Wenrui Huang(黄文睿), an undergraduate in Nanjing University(NJU).
