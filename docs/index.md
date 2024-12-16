@@ -6,13 +6,12 @@ hide:
 
 # About me
 
-## Wenrui Huang
 
-I am Wenrui Huang(黄文睿), an undergraduate in Nanjing University(NJU).
+Hello! I am Wenrui Huang (黄文睿 in Chinese),
+an undergraduate majoring in computer science in
+Nanjing University (NJU).
 
-I'm majoring in Computer Science, in the Elite Class in NJU.
-
-I'm still keeping learning basic knowledge in CS. I'm interested in algorithm and computer system now.
+My research interest is *computer systems* and *artificial intelligence*.
 
 ## Social Links
 
