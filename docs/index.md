@@ -17,11 +17,3 @@ My research interest is *computer systems* and *artificial intelligence*.
 
 - [Email: wr-huang@outlook.com](mailto:wr-huang@outlook.com).
 - [My GitHub](https://github.com/rijuyuezhu).
-
-## Personal Blog
-
-See [Personal Blog](https://blog.rijuyuezhu.top).
-
-## Projects
-
-See [Projects Overview](projects/index.md).

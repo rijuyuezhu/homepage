@@ -10,10 +10,6 @@ copyright: Copyright &copy; 2023-present Wenrui Huang
 # page tree
 nav:
   - 'index.md'
-  - Projects:
-    - 'projects/index.md'
-    - 'projects/20222-webmake-lc.md'
-    - 'projects/riscvui-test.md'
   - Blog: 'https://blog.rijuyuezhu.top'
 
 
